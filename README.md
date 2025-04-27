@@ -1,5 +1,7 @@
 E-commerce Recommendation System
 
+Streamlit link: https://ecommerce-recommendation-system-01.streamlit.app/
+
 Overview This project is part of the semester capstone for Statistics 810 at Michigan State University. The goal is to develop an advanced recommendation system for an e-commerce platform using statistical methods and machine learning techniques.
 
 By leveraging a comprehensive dataset containing user interactions, such as product views, carts, and purchases, the recommendation engine will provide personalized product suggestions based on user behavior patterns. This project demonstrates the application of advanced statistical concepts in a real-world setting.
